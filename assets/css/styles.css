@@ -226,7 +226,7 @@ h3{
   width: 160px;
   height: 160px;
   border-radius: 0.5rem;
-  justify-self: last baseline;
+  justify-self: left;
 
 }
 .home__blob {
