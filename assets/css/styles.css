@@ -222,11 +222,10 @@ h3{
 .home__img {
   position: absolute;
   right: 250px;
-  top: 100px;
+  top: 200px;
   width: 160px;
   height: 160px;
-  border-radius: 0.5rem;
-  justify-self: left;
+  
 
 }
 .home__blob {
